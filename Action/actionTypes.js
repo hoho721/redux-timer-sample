@@ -1,0 +1,5 @@
+export default {
+    ACTION_START: 'ACTION_START',
+    ACTION_RESTART: 'ACTION_RESTART',
+    ACTION_ADD: 'ACTION_ADD'
+}
